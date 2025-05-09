@@ -1,4 +1,4 @@
-# Alura Store Latam - Challenge 1
+# Alura Store Latam - Challenge
 
 Este proyecto contiene un análisis de datos para varias tiendas de la cadena Alura Store. A través de la exploración y visualización de los datos, se busca identificar patrones de ventas, calificaciones de los clientes y otros factores clave para tomar decisiones sobre el rendimiento de cada tienda.
 
